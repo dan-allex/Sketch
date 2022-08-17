@@ -1,3 +1,3 @@
 # Sketch
 
-Hello, this is the sketch2art project
+Hello, this is the sketch2art project.
