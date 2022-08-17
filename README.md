@@ -1,3 +1,3 @@
 # Sketch
 
-Hello, this is the sketch2art project.
+Drawing board that turns your sketch into a fully-formed piece of art
